@@ -1,0 +1,7 @@
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\bin\Debug\reporteCuits.exe.config
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\bin\Debug\reporteCuits.exe
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\bin\Debug\reporteCuits.pdb
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\obj\Debug\reporteCuits.csprojAssemblyReference.cache
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\obj\Debug\reporteCuits.csproj.CoreCompileInputs.cache
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\obj\Debug\reporteCuits.exe
+C:\Users\Norman Ruiz\source\repos\reporteCuits\reporteCuits\obj\Debug\reporteCuits.pdb

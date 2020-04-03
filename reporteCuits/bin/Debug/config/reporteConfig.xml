@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+    <configuraciones>
+        <configuracion value="urlAPI">
+            <parametro value="https://slack.com/api/files.upload"/> 
+        </configuracion>
+        <configuracion value="rutaCuits">
+            <parametro value="C:\imatch\sftp\"/>
+        </configuracion>
+        <configuracion value="rutaReporte">
+            <parametro value="C:\imatch\scripts\"/>
+        </configuracion>
+        <configuracion value="token">
+            <parametro value="xoxb-822048883300-1001714392534-2HkVVcxEHw1f9VvRaGumoxpT"/>
+        </configuracion>
+        <configuracion value="canalSlack">
+            <parametro value="imatch-fd-testing"/>
+        </configuracion>
+    </configuraciones>
